@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **SDE Intern at TachyonSecSystems**
 
-- 🌱 I’m currently Building **NextJs Applications**
+- 🌱 I works mostly on **Backend of the project**
 
 - 📫 How to reach me **mvsaketh2020@gmail.com**
 
