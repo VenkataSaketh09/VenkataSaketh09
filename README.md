@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as **SDE Intern at TachyonSecSystems**
+- 🔭 I’m currently working as **SDE1 at TachyonSecSystems**
 
 - 📫 How to reach me **mvsaketh2020@gmail.com**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muddu venkata saketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muddu venkata saketh" height="30" width="40" /></a>
-<a href="https://instagram.com/__saketh_____09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saketh_____09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/venkatasaketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkatasaketh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/22pa1a12b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="22pa1a12b4" height="30" width="40" /></a>
 </p>
